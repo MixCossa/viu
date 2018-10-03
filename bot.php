@@ -12,7 +12,7 @@ $kuning="\033[1;33m";
 //flag
 print"$ijo
 ======================================================\n__     _______ _____ _   _ 
-\ \   / / ____| ____| | | | create by: OFFICIAL CHAUST
+\ \   / / ____| ____| | | | create by: OFFICIAL CHAUST ; Last Editor By:Mix Cossa
  \ \ / /|  _| |  _| | | | | jika tidak keberatan
   \ V / | |___| |___| |_| | masukan kode invite: XUU1PM
    \_/  |_____|_____|\___/\n ======================================================\n$putih";
